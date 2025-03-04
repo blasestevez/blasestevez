@@ -6,7 +6,7 @@
 ---
 
 
-### 🔹 Languages & Frameworks  
+### 🔹 Tech Stack
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-9179E4?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
